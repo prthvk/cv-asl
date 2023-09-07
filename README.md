@@ -1,7 +1,7 @@
 EE541 Spring 2023 Project 
 
 Title: Computer Vision for ASL Detection and Classificaation
-Authors: Aditya Rao (arao0799@usc.edu); Prithvik Gowda (pgowda@usc.edu)
+Authors: Aditya Rao; Prithvik Gowda
 
 
 Train Dataset Size:  69600
